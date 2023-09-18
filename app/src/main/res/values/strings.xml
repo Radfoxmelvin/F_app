@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">F_app</string>
+    <string name="my_today_meal">My today meal</string>
+    <string name="selected_food">Selected food</string>
+    <string name="add_new_food_choice">Add new food choice</string>
+    <string name="click_to_get_the_food">Click to get the food</string>
+    <string name="food_chosen">Food chosen</string>
+    <string name="clear">Clear</string>
+    <string name="add_food">Add food</string>
+</resources>
